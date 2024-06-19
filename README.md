@@ -1,1 +1,2 @@
 # Binary-Classification-of-Pass-Fail-Exam-Score
+This project aims to create a basic binary classification system using a perceptron model. The system will predict whether a student passes or fails based on their scores in three subjects. For example, you may choose: Math, Science, and English. The user will enter the scores through a graphical user interface (GUI), and the perceptron model will output a pass or fail prediction.
